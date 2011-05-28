@@ -1,5 +1,19 @@
 <?php
 
+/* vim: set expandtab tabstop=4 shiftwidth=4 softtabstop=4 ff=unix fenc=utf8: */
+
+/**
+*
+* HelloScan Example
+*
+* @package HelloScan_PrestaShop
+* @author Yves Tannier [grafactory.net]
+* @copyright 2011 Yves Tannier
+* @link http://helloscan.mobi
+* @version 0.1
+* @license MIT Licence
+*/
+
 /**
  * Exemple basique d'utilisation de HelloScan
  * http://helloscan.mobi
